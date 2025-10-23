@@ -51,15 +51,6 @@ It covers:
 
 ---
 
-## Dataset
-
-- **Original file:** `fiverr.csv`  
-- **Cleaned file:** `fiverr_cleaned.csv`  
-- **Notebook:** `Fiver_Analysis.ipynb`  
-- **Report:** `Report_of_fiverr_analysis.pdf`
-
----
-
 ## Author
 
 **Manahil Ahmad**  
